@@ -1,0 +1,27 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afzalRapidInnovation/notes-app-using-nodejs.git"
+  },
+  "author": "Afzal Mansuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afzalRapidInnovation/notes-app-using-nodejs/issues"
+  },
+  "homepage": "https://github.com/afzalRapidInnovation/notes-app-using-nodejs#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "validator": "^13.7.0",
+    "yargs": "^12.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
